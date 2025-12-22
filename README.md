@@ -59,3 +59,17 @@ An interactive Streamlit app allows users to:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+## Demo Screenshots
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Historical Sales
+![Sales](screenshots/historical_sales.png)
+
+### Model Performance
+![Performance](screenshots/model_performance.png)
+
+### Next-Day Prediction
+![Prediction](screenshots/prediction.png)
+
