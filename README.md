@@ -1,8 +1,13 @@
 # Store-Item Demand Forecasting 📦📊
 
-## Overview
-This project predicts **next-day sales** for a given **store and item** using historical demand data.
-The goal is to demonstrate a real-world **time-series regression pipeline** with feature engineering and model evaluation.
+## Project Overview
+
+This project focuses on **store–item demand forecasting** using historical sales data and machine learning.
+
+⚠️ Note: This repository does not host a live web application.  
+The Streamlit interface was used locally for experimentation.  
+For portfolio purposes, results and UI are demonstrated via screenshots.
+
 
 ## Problem Statement
 Retail businesses need accurate demand forecasts to:
