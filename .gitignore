@@ -5,9 +5,10 @@
 __pycache__/
 *.pyc
 
-# Large data / models (DO NOT PUSH)
-*.pkl
-*.csv
+# Large generated artifacts (DO NOT PUSH)
+processed_data.pkl
 
 # Environment
 .env
+
+
