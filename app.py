@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 model = joblib.load("xgb_model.pkl")
 FEATURES = joblib.load("features.pkl")
 data = joblib.load("processed_data.pkl")
+data.to_csv("processed_data.csv", index=False)
 
 st.set_page_config(page_title="Demand Forecasting", layout="wide")
 
