@@ -4,11 +4,6 @@
 
 This project focuses on **store–item demand forecasting** using historical sales data and machine learning.
 
-⚠️ Note: This repository does not host a live web application.  
-The Streamlit interface was used locally for experimentation.  
-For portfolio purposes, results and UI are demonstrated via screenshots.
-
-
 ## Problem Statement
 Retail businesses need accurate demand forecasts to:
 - Avoid stockouts
