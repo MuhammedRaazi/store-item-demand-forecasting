@@ -50,10 +50,7 @@ An interactive Streamlit app allows users to:
 - Select Item ID
 - View predicted next-day sales
 
-## How to Run
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+
 ## Demo Screenshots
 
 ### Overview
